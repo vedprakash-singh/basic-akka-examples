@@ -1,0 +1,2 @@
+# basic-akka-examples
+How to get started with Akka and Scala.Akka’s use of the actor model provides a level of abstraction that makes it easier to write correct concurrent, parallel and distributed systems. The actor model spans the full set of Akka libraries, providing you with a consistent way of understanding and using them. Thus, Akka offers a depth of integration that you cannot achieve by picking libraries to solve individual problems and trying to piece them together.
